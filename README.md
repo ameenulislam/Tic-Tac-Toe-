@@ -14,3 +14,16 @@ To run the application you need to have **Flutter** installed and configured on 
 4.) Run **flutter build apk** or **flutter build app bundle** to build the app for release. <br />
 
 ## App Screenshots 
+<table>
+    <tr>
+        <td>
+        <img src="./screenshots/img1.png" width="300" height="620"> 
+        </td>
+        <td>
+        <img src="./screenshots/img2.png" width="300" height="620"> 
+        </td>
+        <td>
+        <img src="./screenshots/img3.png" width="300" height="620"> 
+        </td>
+    </tr>
+</table>
